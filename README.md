@@ -88,6 +88,9 @@ The system is implemented and validated through Python-based simulations and ani
 * **AMR_Project_Presentation_Devank.pptx**
   Final presentation summarizing modeling, control, motion planning, results, and challenges with solutions.
 
+* **AMR_Final_Project_Devank.py**
+  Final project file with full animated simulation and HUD for user inputs.
+
 
 All the files named AMR_HW... have simulations for:
 Straight-line motion simulation of a 2-wheeled differential drive robot
