@@ -88,6 +88,17 @@ The system is implemented and validated through Python-based simulations and ani
 * **AMR_Project_Presentation_Devank.pptx**
   Final presentation summarizing modeling, control, motion planning, results, and challenges with solutions.
 
+
+All the files named AMR_HW... have simulations for:
+Straight-line motion simulation of a 2-wheeled differential drive robot
+(linear velocity v = x, angular velocity ω = 0).
+
+Circular motion simulation of a 2-wheeled differential drive robot
+(linear velocity v = x, angular velocity ω = y).
+
+Motion planning and obstacle avoidance simulation using Artificial Potential Fields, Control Barrier Function.
+Demonstrates navigation around various obstacles static/moving with safety zones and animation.
+
 ---
 
 ## Setup and Installation
