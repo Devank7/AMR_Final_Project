@@ -25,7 +25,6 @@ The system is implemented and validated through Python-based simulations and ani
 ### Physical Principles and Implementation
 
 * Independent wheel actuation generates both translation and rotation
-* A passive caster wheel provides mechanical stability without influencing kinematics
 * All models are implemented in **Python** and validated via simulation
 
 ---
