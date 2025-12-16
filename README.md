@@ -86,15 +86,18 @@ The system is implemented and validated through Python-based simulations and ani
 ## Repository Structure
 
 * **All_HW/**
-  Contains several files related to every step progressed of the project one by one. Starting from Kinematics, Dynamics to finally able to
+
+  *Contains several files related to every step progressed of the project one by one. Starting from Kinematics, Dynamics to finally able to
   implement SMC, APF and CBF with animated simulations.
   [SMC: Sliding Modular Controller   APF: Artificial Potential Fields  CBF: Control Barrier Function]
   
 * **AMR_Project_Presentation_Devank.pptx**
-  Final presentation summarizing modeling, control, motion planning, results, and challenges with solutions.
+
+  *Final presentation summarizing modeling, control, motion planning, results, and challenges with solutions.
 
 * **AMR_Final_Project_Devank.py**
-  Final project file with full animated simulation and HUD for user inputs.
+
+  *Final project file with full animated simulation and HUD for user inputs.
 
 
 All the files named AMR_HW... have simulations for:
