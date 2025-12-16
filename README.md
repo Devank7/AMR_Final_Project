@@ -1,4 +1,4 @@
-# AMR Final Project — 2‑Wheel Differential Drive Robot
+# AMR Final Project: 2-Wheel Differential Drive Robot
 
 ## Project Summary
 
