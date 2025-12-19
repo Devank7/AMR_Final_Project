@@ -10,11 +10,19 @@ The system is implemented and validated through Python-based simulations and ani
 
 ## 1. System Modeling
 
-### Kinematic Modeling                                                                        ### Dynamic Modeling
+### Kinematic Modeling                                                                        
 
-* Derived the **forward and inverse kinematics** of a differential drive robot                * Implemented simplified **wheel and motor dynamics**
-* Related individual wheel velocities to the robot’s linear and angular motion                * Included actuator dynamics to capture realistic velocity tracking behavior
-* Modeled the robot as a **non‑holonomic system** operating in 2D space                       * Integrated the dynamic model with kinematics for closed-loop simulation
+* Derived the **forward and inverse kinematics** of a differential drive robot              
+* Related individual wheel velocities to the robot’s linear and angular motion                
+* Modeled the robot as a **non‑holonomic system** operating in 2D space                       
+
+
+### Dynamic Modeling
+
+ * Implemented simplified **wheel and motor dynamics**
+ * Included actuator dynamics to capture realistic velocity tracking behavior
+ * Integrated the dynamic model with kinematics for closed-loop simulation
+     
 
 ### Physical Principles and Implementation
 
@@ -93,6 +101,8 @@ The system is implemented and validated through Python-based simulations and ani
 * **AMR_Final_Project_Devank.py**
 
   *Final project file with full animated simulation and HUD for user inputs.
+  Select (by clicking) any part on the screen as starting point and then click again to set Goal point. The robot will automatically start moving towards the goal
+  including the moving pedestrians and static obstacles. By clicking restart the arena will reset again and the obstacles,pedestrians will be positioned randomly.
 
 
 All the files named AMR_HW... have simulations for:
