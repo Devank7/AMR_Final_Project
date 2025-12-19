@@ -102,7 +102,7 @@ The system is implemented and validated through Python-based simulations and ani
 
   *Final project file with full animated simulation and HUD for user inputs.
   Select (by clicking) any part on the screen as starting point and then click again to set Goal point. The robot will automatically start moving towards the goal
-  including the moving pedestrians and static obstacles. By clicking restart the arena will reset again and the obstacles,pedestrians will be positioned randomly.
+  and avoiding the moving pedestrians & static obstacles. By clicking restart the arena will reset again and the obstacles,pedestrians will be positioned randomly.
 
 
 All the files named AMR_HW... have simulations for:
